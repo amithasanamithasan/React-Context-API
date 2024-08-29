@@ -9,7 +9,7 @@ const AnotherChildComponet = () => {
         <div>
             <button className="bg-lime-400 text-3xl font-serif rounded-xl" type="button" >AnotherChild-{Multiply}</button>
  
-            <GrandChild>s</GrandChild>
+            <GrandChild></GrandChild>
         </div>
     );
 };
